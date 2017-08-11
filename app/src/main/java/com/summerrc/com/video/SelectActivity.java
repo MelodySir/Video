@@ -17,7 +17,7 @@ public class SelectActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.bt_record).setOnClickListener(this);
         findViewById(R.id.bt_setting).setOnClickListener(this);
         findViewById(R.id.bt_viewing).setOnClickListener(this);
-        findViewById(R.id.account).setOnClickListener(this);
+        findViewById(R.id.bt_account).setOnClickListener(this);
     }
 
     @Override
